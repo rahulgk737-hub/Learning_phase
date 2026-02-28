@@ -9,7 +9,7 @@ function Arr(props) {
 
   return (
     <div>
-     <h1>PROPS</h1>
+     <h1>Git </h1>
     </div>
   );
 }
